@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreApi", "src\NetCoreApi\NetCoreApi.csproj", "{59DDC1E8-F6FF-48D8-9EE8-89BE586260C7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DA97C984-1DF6-4207-BC4C-0A7AB58CADDF}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59DDC1E8-F6FF-48D8-9EE8-89BE586260C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59DDC1E8-F6FF-48D8-9EE8-89BE586260C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59DDC1E8-F6FF-48D8-9EE8-89BE586260C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59DDC1E8-F6FF-48D8-9EE8-89BE586260C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B58601E0-4435-4DE3-8321-84EAE8F9C26D}
+	EndGlobalSection
+EndGlobal
